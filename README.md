@@ -14,4 +14,4 @@ Este es el portafolio personal de **David Medrano**, un estudiante de Ingenierí
 
 1. **Clonar el repositorio** en tu máquina local:
 
-   git clone https://github.com/davisito074/mi-portafolio.git
+   git clone https://davisito074.github.io/mi-portafolio/
