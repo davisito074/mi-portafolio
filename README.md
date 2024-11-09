@@ -8,10 +8,9 @@ Este es el portafolio personal de **David Medrano**, un estudiante de Ingenierí
 
 - **HTML5**: Para la estructura básica del sitio.
 - **CSS3**: Para el diseño y la creación de una experiencia de usuario responsiva.
-- **JavaScript**: Para agregar interactividad y funcionalidad adicional.
-
+  
 ## Instrucciones para Visualizar el Sitio
 
-1. **Clonar el repositorio** en tu máquina local:
+1. **Pegar el link** en tu máquina local:
 
-   git clone https://davisito074.github.io/mi-portafolio/
+ https://davisito074.github.io/mi-portafolio/
